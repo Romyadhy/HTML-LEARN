@@ -1,0 +1,22 @@
+.main{
+    display: grid;
+    /* grid-template-columns: auto auto  auto auto auto; */
+    grid: 200px / auto auto;
+    grid-gap: 30px;
+    padding: 1rem;
+    background-color: aqua;
+
+}
+
+.main div{
+    text-align: center;
+    font-size: 30px;
+    padding: 1rem;
+    background-color: antiquewhite;
+}
+
+.satu{
+    /* grid-column-start: 1; */
+
+
+}

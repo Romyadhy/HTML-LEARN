@@ -1,0 +1,8 @@
+Type Input dalam Form Validasi
+1. email			: Digunakan dalam membuat email          
+2. tel			
+3. url
+4. number
+5. range
+6. datetime picker
+7. color picker

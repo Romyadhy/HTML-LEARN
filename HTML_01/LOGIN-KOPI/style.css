@@ -1,0 +1,176 @@
+
+
+* {
+
+margin: 0;
+padding: 0; 
+
+
+
+background: #DCDCDC; 
+}
+
+body
+{
+    position: relative;
+    width: 500px;
+    height: 200px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.all
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    /* width: 10000px;
+    height: 100px; */
+}
+
+
+/* .judul
+{
+    position: absolute;
+    width: 864px;
+    height: 1605px;
+    left: -378px;
+    top: -693px;
+
+    background: url(../LOGIN-KOPI/Logo-Kopi.jpg);  
+    mix-blend-mode: normal; 
+} */
+
+ .all .img-content
+{
+    /* position: absolute; */
+    /* width: 864px;
+    height: 1605px;
+    left: -378px;
+    top: -693px; */
+    width: 800px;
+    height: 550px;
+    mix-blend-mode: normal;
+
+
+
+}
+
+
+
+.all .judul
+{
+    position: absolute;
+    width: 320px;
+    height: 47px;
+    left: 70px; 
+    top: 299px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+
+    color: #1E1E1E; 
+
+}
+
+
+
+
+.username
+{
+    position: absolute;
+    width: 323px;
+    height: 66px;
+    left: 54px;
+    top: 421px;
+
+    background: #FFFFFF;
+    border-radius: 30px;
+
+    padding-left: 40px;
+    
+}
+
+.username .user-text input
+{
+    position: absolute;
+    width: 314px;
+    height: 53px;
+    left: 63px;
+    top: 439px;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: rgba(0, 0, 0, 0.5);
+
+    opacity: 0.4;
+}
+
+
+
+.password
+{
+    position: absolute;
+    width: 323px;
+    height: 66px;
+    left: 54px;
+    top: 535px;
+
+    background: #FFFFFF;
+    border-radius: 30px;
+
+    padding-left: 40px;
+}
+
+.login
+{
+    
+    position: absolute;
+    width: 232px;
+    height: 68px;
+    left: 99px;
+    top: 662px;
+
+    background: #AF5E07;
+    border-radius: 30px;
+
+/* background: black;
+    color: white;
+    padding: 1rem;
+    border-radius: 100px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+     */
+}
+
+.login button
+{
+    /* text-decoration: none;
+    display: flex;
+    padding: 3rem; */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 140px;
+    height: 30px;
+    /* height: 30px;
+    left: 99px;  */
+    /* top: 662px; */
+    margin: 20px 0 0 50px;
+    
+    
+}

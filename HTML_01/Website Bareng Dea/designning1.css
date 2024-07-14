@@ -1,0 +1,110 @@
+*, 
+html
+{
+    margin: 0;
+    padding: 0;
+}
+
+.container
+{
+    height: 100vh;
+    background-color: wheat;
+}
+
+
+.navbar
+{
+    width: 100%;
+    background-color: white;
+    height: 10vh;
+
+}
+
+.ul-navbar
+{
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.li-navbar
+{
+    list-style-type: none;
+    padding: 20px;
+    margin: 5px;
+    color: black;
+    font-size: 40px;
+}
+
+.li-navbar:hover
+{
+    border: 10px;
+    background-color: blueviolet;
+    border-radius: 20px;
+    transition: .0.2s ease-in-out;
+    transition-delay: .0.5s;
+
+}
+
+.home-bar
+{
+    color: black;
+    text-decoration: none;
+}
+.bout-bar
+{
+    color: black;
+    text-decoration: none;
+}
+
+.con-bar 
+{
+    color: black;
+    text-decoration: none;
+}
+.cont 
+{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    height: 70vh;
+}
+
+.img-cont
+{
+    height: 500px;
+    width: 500px;
+}
+
+.a-content
+{
+    background-color: white;
+    height: 400px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: none;
+    color: black;
+    font-size: 50px;
+}
+
+
+
+.foot
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    background-color: aquamarine;
+    font-size: 20px;
+    height: 10vh;
+   
+}
+

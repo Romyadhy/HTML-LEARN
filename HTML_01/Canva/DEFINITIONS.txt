@@ -1,0 +1,16 @@
+BELAJAR CANVAS
+
+Canvas API Shapes
+HTML
+1. Rectangle = (fillRect(25, 25, 100(Height), 100(Weidht));
+2. Arc/Cricle
+3. Path
+4. Bezier & Quadratic Curve
+
+Java 3D Canvas
+1. D3.js
+2. three.js
+3. p5.js
+4. matter.js
+5. Phaser
+6. babylon.js
